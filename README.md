@@ -7,4 +7,4 @@ Operations performed like
 - Standardized date time format
 - Calculated number of events performed in timeline
 - Determined number of mentions
-- Used some nlp to filter out unneccessary words
+- Used some nlp to filter out unnecessary words
