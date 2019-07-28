@@ -8,3 +8,6 @@ Operations performed like
 - Calculated number of events performed in timeline
 - Determined number of mentions
 - Used some nlp to filter out unnecessary words
+![alt text](https://github.com/swapcy/whatsapp-chat-analyser/blob/master/Members.png)
+![alt text](https://github.com/swapcy/whatsapp-chat-analyser/blob/master/PieChart.png)
+![alt text](https://github.com/swapcy/whatsapp-chat-analyser/blob/master/WordCloud.png)
